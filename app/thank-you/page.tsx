@@ -5,7 +5,7 @@ const ThankYouPage = () => {
     <div className="min-h-screen flex flex-col justify-center items-center bg-white px-4 sm:px-6 lg:px-8">
       <div className="max-w-3xl text-center">
         <h1 className="text-3xl font-extrabold text-gray-900 mb-6">
-          Hooray! The first lesson of the &quot;The Freelance Success
+          Hooray! The first lesson of the &quot;The Freelance Pricing
           System&quot; is on its way to your inbox.
         </h1>
         <p className="text-lg text-gray-700 mb-4">
@@ -14,7 +14,7 @@ const ThankYouPage = () => {
         </p>
         <p className="text-lg text-gray-700 mb-4">
           This email contains instructions to get started with our The Freelance
-          Success System Email Course, so be sure to check it out!
+          Pricing System Email Course, so be sure to check it out!
         </p>
         <p className="text-lg text-gray-700 mb-4">
           But if you have any questions, don&apos;t hesitate to hit reply and
@@ -25,7 +25,7 @@ const ThankYouPage = () => {
         </p>
         <p className="text-sm text-gray-500 mt-8">
           P.S. If you don&apos;t find the email in your inbox in the next couple
-          of minutes, please check your spam folder...
+          of minutes, please check your spam/promotions folder...
           <br />
           Chances are it ended up there.
           <br />

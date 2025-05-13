@@ -56,7 +56,7 @@ const EmailCaptureForm = () => {
             type="submit"
             className="w-full bg-blue-600 hover:bg-blue-700 text-white py-3 px-6 rounded-lg font-medium flex items-center justify-center space-x-2 transition-colors"
           >
-            <span>Yes, I Want to Fix These Mistakes</span>
+            <span>Yes, I Want to Price Like a Pro</span>
             <ArrowRight size={18} />
           </button>
         </form>
@@ -65,9 +65,9 @@ const EmailCaptureForm = () => {
             {errorMessage}
           </p>
         )}
-        {/* <p className="mt-4 text-sm text-gray-500 text-center">
-          Join 2,500+ SaaS founders improving their growth strategy
-        </p> */}
+        <p className="mt-4 text-sm text-gray-500 text-center">
+          No fluff. Just straight-up strategy you can apply immediately.
+        </p>
       </div>
     </div>
   );

@@ -12,31 +12,31 @@ export interface Lesson {
 
 const Lesson = [
   {
-    title: "Day 1 - The “Portfolio Trap” That Wastes Time and Gets You Nowhere",
+    title: "Day 1 - Why Charging Per Word Keeps You Broke",
     content:
-      "Why fancy websites don’t impress clients — and what they really want to see before hiring you",
-  },
-  {
-    title: "Day 2 - The No-Client Mornings That Keep You Stressed",
-    content:
-      "What to do when your inbox is empty — and how to start bringing in new clients without waiting for luck.",
+      "You’re not charging too little because you’re new. You’re charging too little because of this.",
   },
   {
     title:
-      "Day 3 - Still Charging Less Than You Should? Here’s Why You’re Stuck",
+      "Day 2 - 3 Pricing Models That Instantly Make You Sound Like a Pro (Instead of a ₹0.50/Word Writer)”",
     content:
-      "The real reason you’re underpaid — and how to shift your mindset and pricing without fear",
+      "You don’t need more clients — you need a smarter way to quote your value..",
   },
   {
-    title: "Day 4 - You Got the Lead… But They Ghosted. Here’s Why",
+    title: "Day 3 - 5 Subtle Beliefs That Keep You Stuck At Low Rates",
     content:
-      "You’re jumping to prices too fast. Here’s how to listen better, pitch smarter, and turn “maybe” into “let’s start.”",
+      " If you’ve ever felt nervous saying your price out loud… this might be why.",
+  },
+  {
+    title: "Day 4 - How to Package Offers That Clients Feel Stupid Saying No",
+    content:
+      "You’re already doing more than “just writing.” It’s time to get paid like it.",
   },
   {
     title:
-      "Day 5 - The Simple Habit That Gets You Hired Faster Than Cold Emails",
+      "Day 5 - The 1-Page Asset That Explains Your Offer Easy & Fast To Clients",
     content:
-      "Most freelancers send pitches and pray. The smart ones learn their client’s business — and win trust (and projects) quickly.",
+      "No more rate cards. No awkward price talks. Just send this — and let it do the talking.",
   },
 ];
 

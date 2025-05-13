@@ -13,13 +13,13 @@ const Hero = () => {
             </div>
 
             <h1 className="text-4xl sm:text-5xl font-bold mb-6 text-gray-900 leading-tight">
-              The Freelance Success System
+              The Freelance Pricing System
             </h1>
 
             <p className="text-xl text-gray-700 mb-8 leading-relaxed">
-              The 5 costly mistakes early-stage freelance writers make that lead
-              to constant burnout, low income, and no steady work
-              <strong> (Even After Landing a Few Clients) </strong>
+              Learn how to break out of low-paying, per-word gigs and
+              confidently charge premium rates — even if you&apos;re just
+              starting out.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
@@ -29,11 +29,11 @@ const Hero = () => {
                 </div>
                 <div>
                   <h3 className="font-medium text-gray-900">
-                    Stop Wasting Time
+                    Stop Undercharging Your Work
                   </h3>
                   <p className="text-gray-600">
-                    Avoid busywork that looks productive but doesn’t get
-                    clients.
+                    It’s easy for clients to undervalue your work when it’s
+                    priced like a commodity.
                   </p>
                 </div>
               </div>
@@ -44,11 +44,11 @@ const Hero = () => {
                 </div>
                 <div>
                   <h3 className="font-medium text-gray-900">
-                    Build a Client Pipeline
+                    Productize Your Service
                   </h3>
                   <p className="text-gray-600">
-                    Know exactly what to do daily to attract high-quality
-                    clients.
+                    Show your writing as a solution to a business problem, not a
+                    deliverable.
                   </p>
                 </div>
               </div>
@@ -59,10 +59,10 @@ const Hero = () => {
                 </div>
                 <div>
                   <h3 className="font-medium text-gray-900">
-                    Charge What You’re Worth
+                    Position as a Premium Writer
                   </h3>
                   <p className="text-gray-600">
-                    Get out of the undercharging trap and build real income.
+                    Be seen as a strategic asset—not just a writer for hire.
                   </p>
                 </div>
               </div>
